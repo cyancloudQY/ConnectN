@@ -1,2 +1,2 @@
-# connectN
-A ConnectN game written in python
+# ConnectN
+A ConnectN game written in python. 
